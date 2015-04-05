@@ -6,6 +6,7 @@ Portland, Oregon, USA
 ###Went to School at:
 Oregon State University
 - B.A. in English in 2004
+- Current Post-Bacc Student in Computer Science
 
 ###Hobbies & Interests
 > "There is nothing to writing.  All you do is sit down at a typewriter and bleed."
@@ -20,6 +21,8 @@ Oregon State University
 * Craft Beer enthusiast
 - Favorite Brewery:  Breakside Brewery
 * Running
+- completed 2 marathons
+- 2013 Hood to Coast participant
 * Hiking & Backpacking
 * Travel
 * Disc Golf
