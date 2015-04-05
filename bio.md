@@ -36,3 +36,16 @@ Oregon State University
   
   
 ###Programming Background
+> "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
+  --  Edsger Dijkstra
+
+* First programming language learned: BASIC on the Apple IIe
+* Began the Computer Science program at Oregon State University in 1999
+  * Switched to English Literature in my sophomore year, but continued to take CS classes
+  * CS 361 was my favorite class; it combined both interests!
+* Re-discovered my interest in programming while working as an analyst at Fred Meyer
+  * Created Excel macros to automate processes
+  * Learned Python in the summer of 2013 by creating a Civilization 4 unit stack combat simulator
+* Began the OSU Post-Bacc Computer Science Program in Summer of 2014
+  * Favorite School Project so far: the final project for this class
+  * Enjoy programming in C, Python, but web development with javascript and php is my favorite
