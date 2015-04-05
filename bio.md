@@ -19,10 +19,10 @@ Oregon State University
 * Strategy Games, both Computer and Board versions
   - Civilization 4 multiplayer at realmsbeyond.net under the handle 'pindicator'
 * Craft Beer enthusiast
-- Favorite Brewery:  Breakside Brewery
+  - Favorite Brewery:  Breakside Brewery
 * Running
-- completed 2 marathons
-- 2013 Hood to Coast participant
+  - completed 2 marathons
+  - 2013 Hood to Coast participant
 * Hiking & Backpacking
 * Travel
 * Disc Golf
@@ -33,7 +33,8 @@ Oregon State University
   - Beer + Running = NoPo Run Club member since 2013
 * Writing
   - Letting the fields fallow
-  
+  - Still to come: my first novel
+
   
 ###Programming Background
 > "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
