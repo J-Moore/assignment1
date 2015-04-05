@@ -46,7 +46,9 @@ Oregon State University
   * CS 361 was my favorite class; it combined both interests!
 * Re-discovered my interest in programming while working as an analyst at Fred Meyer
   * Created Excel macros to automate processes
+  * Took Python and Statistics classes on Coursera.org
   * Learned Python in the summer of 2013 by creating a Civilization 4 unit stack combat simulator
 * Began the OSU Post-Bacc Computer Science Program in Summer of 2014
   * Favorite School Project so far: the final project for this class
   * Enjoy programming in C, Python, but web development with javascript and php is my favorite
+  * My second time taking this class: I received an incomplete in CS494 in Fall term due to over-committing my time and failing to complete the How-To assignment.
